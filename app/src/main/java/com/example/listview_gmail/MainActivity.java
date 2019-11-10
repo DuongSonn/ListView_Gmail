@@ -28,9 +28,7 @@ public class MainActivity extends ListActivity  {
     Integer[] likes = {R.mipmap.start,R.mipmap.start,R.mipmap.start,R.mipmap.start,R.mipmap.start,R.mipmap.start,R.mipmap.start,R.mipmap.start};
 //    Integer like = R.mipmap.start;
 
-    void FormatString(String[] arr) {
-
-    }
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
